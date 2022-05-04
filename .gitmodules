@@ -7,3 +7,9 @@
 [submodule "bundle/dracula"]
 	path = bundle/dracula
 	url = git@github.com:dracula/vim.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git@github.com:vim-syntastic/syntastic.git
